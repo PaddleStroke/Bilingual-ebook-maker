@@ -1,6 +1,6 @@
 # Bilingual-ebook-maker
 I created this script in order to create automatically bilingual ebooks from two ebooks in different languages.
-Bilingual ebook with one paragraph in one language, then the other in another language. Those kind of books are great to learn a foreign language.
+Bilingual ebook with one paragraph in one language, then the same paragraph in another language. Those kind of books are great to learn a foreign language. This script need .fb2 file format for the ebooks.
 
 This task which seems easy is not so because different translations of the same book usually don't have exactly the same paragraphs and inner fb2 settings may not be arranged the same way.
 
